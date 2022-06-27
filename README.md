@@ -2,7 +2,7 @@
 
 This is files template 
 
-Coordinator.xctemplate need copy to 
+ScreenVC, View, Provider.xctemplate need copy to 
 /Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates/File Templates/Custom Templates
 
 
