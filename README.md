@@ -1,8 +1,5 @@
 # Template
 
-This is architecture template 
-
-Coordinator.xctemplate need copy to 
-/Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates/Personal
-
+Architecture template - branch Architecture
+File template - branch Files
 
