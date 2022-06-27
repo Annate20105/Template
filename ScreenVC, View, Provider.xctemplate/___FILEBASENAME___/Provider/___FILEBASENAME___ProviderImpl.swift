@@ -2,7 +2,7 @@ import Foundation
 import Combine
 
 protocol ___VARIABLE_productName___Provider {
-	var state: CurrentValueSubject<___FILEBASENAME___State, Never> { get }
+	var state: CurrentValueSubject<___VARIABLE_productName___State, Never> { get }
 
 }
 
